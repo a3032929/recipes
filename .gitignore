@@ -1,3 +1,7 @@
 log_*
 *.png
 receipts/
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
